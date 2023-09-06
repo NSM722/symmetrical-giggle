@@ -1,4 +1,4 @@
-# my_mobile_app
+# QuoteGenie Mobile App
 
 A new Flutter project.
 
@@ -25,3 +25,5 @@ samples, guidance on mobile development, and a full API reference.
 - Build the widget using the WidgetTester.
 - Search for the widget using a Finder.
 - Verify the widget using a Matcher
+
+[Widget testing using keys](https://www.youtube.com/watch?v=7N1qRivtCWI "watch video")

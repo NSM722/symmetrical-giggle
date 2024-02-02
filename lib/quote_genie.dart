@@ -38,6 +38,9 @@ class _QuoteGenieState extends State<QuoteGenie> {
       appBar: AppBar(
         title: const Text(
           'QuoteGenie',
+          style: TextStyle(
+            color: Color.fromARGB(255, 196, 228, 255),
+          ),
         ),
         backgroundColor: Colors.indigo,
       ),
